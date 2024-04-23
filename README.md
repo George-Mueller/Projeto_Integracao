@@ -19,4 +19,4 @@ Este projeto está atualmente em desenvolvimento e estamos buscando mais conheci
 Para mais informações, por favor, consulte os links abaixo.
 
 ## 🔗 Links
-![linkedin](https://www.linkedin.com/in/george-mueller-a91239225/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-mueller-a91239225/)
