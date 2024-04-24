@@ -11,12 +11,3 @@ Este projeto tem como objetivo desenvolver um sistema integrado para otimizar a 
 
 Este projeto está atualmente em desenvolvimento.
 
-##  Autores
-- [@George-Mueller](https://github.com/George-Mueller/)
-- [@Alisson-Oliver](https://github.com/ali-olvs/)
-
-  
-Para mais informações, por favor, consulte os links abaixo.
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-mueller-a91239225/)
